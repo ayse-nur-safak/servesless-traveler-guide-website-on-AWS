@@ -1,4 +1,3 @@
-# servesless-traveler-guide-website-on-AWS
 <h1>Servesless Website on AWS</h1>
 
 

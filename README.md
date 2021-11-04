@@ -4,7 +4,7 @@
 
 
 
-Project Proposal
+<h2>Project Proposal</h2>
 Project Topic: Serverless Website Design on AWS
 Project Name: Traveler Guide Website on AWL for Turkey
 1.	Introduction

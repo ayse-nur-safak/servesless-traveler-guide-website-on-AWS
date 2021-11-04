@@ -4,10 +4,10 @@
 
 
 <h2>Project Proposal</h2>
-Project Topic: Serverless Website Design on AWS
-Project Name: Traveler Guide Website on AWL for Turkey
-<ol>
- <li>1.	Introduction</li>
+<div>Project Topic: Serverless Website Design on AWS</div>
+<div>Project Name: Traveler Guide Website on AWL for Turkey</div>
+<ol><div>
+ <li>Introduction</li>
  This project is a website for traveler that needs a guide to travel in Turkey. 
 
 

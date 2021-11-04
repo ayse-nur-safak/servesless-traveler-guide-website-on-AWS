@@ -6,7 +6,7 @@
 <h2>Project Proposal</h2>
 Project Topic: Serverless Website Design on AWS
 Project Name: Traveler Guide Website on AWL for Turkey
-1.	Introduction
+<ol>1.	Introduction
  This project is a website for traveler that needs a guide to travel in Turkey. 
 
 
@@ -31,5 +31,5 @@ I.	Planned Deliverables
 Please include the deliverables that you think of. What are the outcomes of your project’s phases?
 II.	Working Plan
 We chose Extreme programming model which Agile Model includes, because the model enhances software quality and its capacity to adapt to changing consumer or client requirements. 
-
+<ol>
 

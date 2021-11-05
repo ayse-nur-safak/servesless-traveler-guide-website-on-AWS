@@ -12,7 +12,9 @@ The main objective is guiding the cities to the tourists. Therefore, they will b
 The website is going to be useful and understandable. Customers from all ages can understand the website. Not only writings, but there will also be visual effects for making website more fun and eye catching.
 We will put every city in different box, so the user can find the city easily. Also, we are thinking about putting search box for making website clearer and easier to use. 
 Also, the website will be responsive. Therefore, website is also usable for mobile phones.
-- It also includes high-level definition of functional requirements and important non-functional requirements to achieve.
+<div>There are 8 functional requirments. Firstly, the website should meet visitors with an attractive visual as a main page. Secondly, tourists should choose one of the 7 regions of Turkey they want to go visit by clicking on the page showing the regions.</div>
+<div>Non-functional</div>
+
 ###### III.	Target Customers
 - Tourists which will come from abroad.
 - Locals 

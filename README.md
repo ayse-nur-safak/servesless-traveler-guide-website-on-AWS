@@ -12,8 +12,8 @@ The main objective is guiding the cities to the tourists. Therefore, they will b
 The website is going to be useful and understandable. Customers from all ages can understand the website. Not only writings, but there will also be visual effects for making website more fun and eye catching.
 We will put every city in different box, so the user can find the city easily. Also, we are thinking about putting search box for making website clearer and easier to use. 
 Also, the website will be responsive. Therefore, website is also usable for mobile phones.
-<p>There are six functional requirments. Firstly, the website shall meet visitors with an attractive visual as a main page. Secondly, tourists shall choose one of the 7 regions of Turkey they want to go visit by clicking on the page showing the regions. Thirdly, they shall choose one of the cities belonging to their chosen region by clicking on the page showing the cities. Fourtly, the website shall show recommendations for the city of their city choice. Fifthly, from the search bar on the homepage and on each page shown, users shall be able to search for a city name or recommended places directly over the search bar. Lastly, there will be an admin panel. Through this admin panel, website administrators or editors will be able to easily edit site content.</p>
-<p>On the other hand, there shall be three non-functional requirments. Firstly, necessary security measures shall be taken to ensure that there is no unauthorized access to the admin panel. Secondly, users should not be able to run scripts on the search button on the website in order to security reasons. Thirdly, the response time of the website shall be under 0.5 seconds.</p>
+<div>There are six functional requirments. Firstly, the website shall meet visitors with an attractive visual as a main page. Secondly, tourists shall choose one of the 7 regions of Turkey they want to go visit by clicking on the page showing the regions. Thirdly, they shall choose one of the cities belonging to their chosen region by clicking on the page showing the cities. Fourtly, the website shall show recommendations for the city of their city choice. Fifthly, from the search bar on the homepage and on each page shown, users shall be able to search for a city name or recommended places directly over the search bar. Lastly, there will be an admin panel. Through this admin panel, website administrators or editors will be able to easily edit site content.</div>
+<div>Non-functional</div>
 
 ###### III.	Target Customers
 - Tourists which will come from abroad.
@@ -34,5 +34,19 @@ Because of this website, they can travel and enjoy the city in a right way and c
 ###### I.	Planned Deliverables
 Please include the deliverables that you think of. What are the outcomes of your project’s phases?
 ###### II.	Working Plan
+
+For testing server and the code, we all need our computers and IDE. We all need some training about html, css, javascript, database. We have some information about all these and experience. We will work on these languages and concepts. We will train more to not get any errors and work the program well. We can use html guide website and some youtube videos for outsources.
+
+We decide to do our project step by step by weekly meetings. Every week we are going to meet online or face to face (up to our lesson situations) and make job distribution according to current situation. We have our own space (the things that we should do), but also we will have freedom to help each other. We will put the codes to the “github”, Therefore, we can see what each other are doing at the time, and can do some changings as needed.
+
 We chose Extreme programming model which Agile Model includes, because the model enhances software quality and its capacity to adapt to changing consumer or client requirements.
+
+(MILESTONES EKLE)  
+
++Write down the phases of your Project and Project team’s working model.  
++What are the resources you have, including development team? What else you will need? Will you get any training, will you outsource some modules? 
++How are you going to collaborate with your team members? Planned working model? What meetings are you going to have, its timing in project progress timeline?
+-Considering the deliverables in the previous section, what are the milestones of your project? 
+
+
 ![](https://www.costanavarino.com/wp-content/uploads/2021/09/homepage-969.jpg)

@@ -18,7 +18,16 @@ Also, the website will be responsive. Therefore, website is also usable for mobi
 - Locals 
 - People who guides tourists 
 ###### IV.	Value Proposition
-Advantages of creating a Traveler Guide Website:
+
+Tourists want to travel in Turkey, but they do not know about how to travel or where to go. Couriers are expensive and they are not for deciding the travelling place. When we look at the other travelling websites, we realize that they are complicated and very long. We are going to keep the website simple as possible as we can. We will show specific areas to travel and do a point shoot for helping in a simple way. 
+
+After this project tourists recognize that travelling Turkey is not hard as they think.
+Because of this website, they can travel and enjoy the city in a right way and collect good memories. Therefore, more tourists will travel and visit. This will improve the tourism.
+
++This section is the justification section that explains why we should start this project. 
++What is the contribution of your work to business? 
++This section should be consistent with objectives. It also includes the indirect contributions provided by the project. 
+
 #### 3.	Preliminary Plan
 ###### I.	Planned Deliverables
 Please include the deliverables that you think of. What are the outcomes of your project’s phases?

@@ -12,14 +12,13 @@ The main objective is guiding the cities to the tourists. Therefore, they will b
 The website is going to be useful and understandable. Customers from all ages can understand the website. Not only writings, but there will also be visual effects for making website more fun and eye catching.
 We will put every city in different box, so the user can find the city easily. Also, we are thinking about putting search box for making website clearer and easier to use. 
 Also, the website will be responsive. Therefore, website is also usable for mobile phones.
-<div>There are 8 functional requirments. Firstly, the website should meet visitors with an attractive visual as a main page. Secondly, tourists should choose one of the 7 regions of Turkey they want to go visit by clicking on the page showing the regions.</div>
+<div>There are five functional requirments. Firstly, the website shall meet visitors with an attractive visual as a main page. Secondly, tourists shall choose one of the 7 regions of Turkey they want to go visit by clicking on the page showing the regions. Thirdly, they shall choose one of the cities belonging to their chosen region by clicking on the page showing the cities. Fourtly, the website shall show recommendations for the city of their city choice. Fifthly, from the search bar on the homepage and on each page shown, users shall be able to search for a city name or recommended places directly over the search bar.</div>
 <div>Non-functional</div>
 
 ###### III.	Target Customers
-
-Target customers are the tourists that mostly come from abroad. On the other hand, local people need help about where and how to travel.
-We aim to not only travelers will use this website, but also couriers (people who guides tourists) will use the website. They can gain their knowledge. 
- 
+- Tourists which will come from abroad.
+- Locals 
+- People who guides tourists 
 ###### IV.	Value Proposition
 
 Tourists want to travel in Turkey, but they do not know about how to travel or where to go. Couriers are expensive and they are not for deciding the travelling place. When we look at the other travelling websites, we realize that they are complicated and very long. We are going to keep the website simple as possible as we can. We will show specific areas to travel and do a point shoot for helping in a simple way. 

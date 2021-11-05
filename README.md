@@ -1,4 +1,4 @@
-# Servesless Website Design on AWS  
+# Website Design on AWS  
 ## Project Proposal
 **<div>Project Topic: Serverless Website Design on AWS**</div>
 **<div>Project Name: Traveler Guide Website on AWL for Turkey**</div>

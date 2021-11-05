@@ -33,7 +33,8 @@ Because of this website, they can travel and enjoy the city in a right way and c
 
 #### 3.	Preliminary Plan
 ###### I.	Planned Deliverables
-Please include the deliverables that you think of. What are the outcomes of your project’s phases?
+Thanks to the website, Most tourısts will come to travel our country and learn our culture. Also, the tourism sector will enhance. 
+This website also provides to help the local traveller guide. In our country, people lives in a city but they generally do not travel the cultural places ın the city. Thank to this website they may travel most popular places in proper city by themselves. 
 ###### II.	Working Plan
 
 For testing server and the code, we all need our computers and IDE. We all need some training about html, css, javascript, database. We have some information about all these and experience. We will work on these languages and concepts. We will train more to not get any errors and work the program well. We can use html guide website and some youtube videos for outsources.

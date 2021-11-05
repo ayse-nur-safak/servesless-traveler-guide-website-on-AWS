@@ -11,11 +11,11 @@ It is a website that gives advice on the most popular and must-see places in the
 ###### II.	Objectives
 Define the objectives of this Project. 
 ###### III.	Target Customers
--Tourists which will come from abroad.
--Locals 
--People who guides tourists 
-IV.	Value Proposition
-Advantages of creating a Traveler Guıde Website:
+- Tourists which will come from abroad.
+- Locals 
+- People who guides tourists 
+###### IV.	Value Proposition
+Advantages of creating a Traveler Guide Website:
 #### 3.	Preliminary Plan
 ###### I.	Planned Deliverables
 Please include the deliverables that you think of. What are the outcomes of your project’s phases?

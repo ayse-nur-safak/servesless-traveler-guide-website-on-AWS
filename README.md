@@ -3,8 +3,7 @@
 **<div>Project Topic: Serverless Website Design on AWS**</div>
 **<div>Project Name: Traveler Guide Website on AWL for Turkey**</div>
 #### 1. Introduction
-This project is a website for traveler that needs a guide to travel in Turkey.
-This introduction provides background information for the rest of the document. It briefly describes the project, the basic deliverables and the project milestones.
+Tourists want to travel in Turkey, but they do not know about how to travel or where to go. The project is about creating a website for solving this problem. This website helps people to understand more easily and make the way smoother about travelling. It will show some of the most touristic cities in Turkey. It will give some introductions and advice. Therefore, it will guide tourist to travel in TUrkey. For the website we will use html, css, javascript and we need database for the data.
 #### 2. Project Description
 ###### I.	Overview
 It is a website that gives advice on the most popular and must-see places in the cities that tourists will visit, in Turkey. After selecting one of the 7 regions of Turkey, the provinces attached to the guide will be shown. After that, by clicking on the city that tourists want to visit, they will get recommendations on places to visit in that city.

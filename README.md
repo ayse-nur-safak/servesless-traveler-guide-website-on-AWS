@@ -12,7 +12,7 @@ The main objective is guiding the cities to the tourists. Therefore, they will b
 The website is going to be useful and understandable. Customers from all ages can understand the website. Not only writings, but there will also be visual effects for making website more fun and eye catching.
 We will put every city in different box, so the user can find the city easily. Also, we are thinking about putting search box for making website clearer and easier to use. 
 Also, the website will be responsive. Therefore, website is also usable for mobile phones.
--It also includes high-level definition of functional requirements and important non-functional requirements to achieve. 
+<p>-It also includes high-level definition of functional requirements and important non-functional requirements to achieve.</p> 
 ###### III.	Target Customers
 - Tourists which will come from abroad.
 - Locals 

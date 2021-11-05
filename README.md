@@ -16,9 +16,10 @@ Also, the website will be responsive. Therefore, website is also usable for mobi
 <div>Non-functional</div>
 
 ###### III.	Target Customers
-- Tourists which will come from abroad.
-- Locals 
-- People who guides tourists 
+
+Target customers are the tourists that mostly come from abroad. On the other hand, local people need help about where and how to travel.
+We aim to not only travelers will use this website, but also couriers (people who guides tourists) will use the website. They can gain their knowledge. 
+ 
 ###### IV.	Value Proposition
 
 Tourists want to travel in Turkey, but they do not know about how to travel or where to go. Couriers are expensive and they are not for deciding the travelling place. When we look at the other travelling websites, we realize that they are complicated and very long. We are going to keep the website simple as possible as we can. We will show specific areas to travel and do a point shoot for helping in a simple way. 

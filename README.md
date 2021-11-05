@@ -1,7 +1,7 @@
 # Servesless Website on AWS  
 ## Project Proposal
-**Project Topic: Serverless Website Design on AWS**
-**Project Name: Traveler Guide Website on AWL for Turkey**
+**<div>Project Topic: Serverless Website Design on AWS**</div>
+**<div>Project Name: Traveler Guide Website on AWL for Turkey**</div>
 #### 1. Introduction
 This project is a website for traveler that needs a guide to travel in Turkey.
 This introduction provides background information for the rest of the document. It briefly describes the project, the basic deliverables and the project milestones.
@@ -21,3 +21,4 @@ Advantages of creating a Traveler Guide Website:
 Please include the deliverables that you think of. What are the outcomes of your project’s phases?
 ###### II.	Working Plan
 We chose Extreme programming model which Agile Model includes, because the model enhances software quality and its capacity to adapt to changing consumer or client requirements.
+![](https://www.costanavarino.com/wp-content/uploads/2021/09/homepage-969.jpg)

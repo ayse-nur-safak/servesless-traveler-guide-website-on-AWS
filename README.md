@@ -42,12 +42,11 @@ We decide to do our project step by step by weekly meetings. Every week we are g
 
 We chose Extreme programming model which Agile Model includes, because the model enhances software quality and its capacity to adapt to changing consumer or client requirements.
 
-(MILESTONES EKLE)  
+Our milestons
 
-+Write down the phases of your Project and Project team’s working model.  
-+What are the resources you have, including development team? What else you will need? Will you get any training, will you outsource some modules? 
-+How are you going to collaborate with your team members? Planned working model? What meetings are you going to have, its timing in project progress timeline?
--Considering the deliverables in the previous section, what are the milestones of your project? 
+1) Creating Database
+2) Front-End/Back-End Parts
+3) The project must be entegrated on AWS.
 
 
 ![](https://www.costanavarino.com/wp-content/uploads/2021/09/homepage-969.jpg)

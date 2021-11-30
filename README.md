@@ -27,10 +27,6 @@ Tourists want to travel in Turkey, but they do not know about how to travel or w
 After this project tourists recognize that travelling Turkey is not hard as they think.
 Because of this website, they can travel and enjoy the city in a right way and collect good memories. Therefore, more tourists will travel and visit. This will improve the tourism.
 
-+This section is the justification section that explains why we should start this project. 
-+What is the contribution of your work to business? 
-+This section should be consistent with objectives. It also includes the indirect contributions provided by the project. 
-
 #### 3.	Preliminary Plan
 ###### I.	Planned Deliverables
 Thanks to the website, Most tourısts will come to travel our country and learn our culture. Also, the tourism sector will enhance. 
@@ -43,7 +39,7 @@ We decide to do our project step by step by weekly meetings. Every week we are g
 
 We chose Extreme programming model which Agile Model includes, because the model enhances software quality and its capacity to adapt to changing consumer or client requirements.
 
-Our milestons
+Our milestons:
 
 1) Creating Database
 2) Front-End/Back-End Parts
